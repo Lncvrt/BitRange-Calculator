@@ -23,6 +23,7 @@ The program prompts you to enter the number of bits. Based on the input, it calc
 - **Formatted signed range** with commas for readability.
 
 Examples:
+Note: These are outputs from the app.
 
 16-Bit Calculation:
 ```
